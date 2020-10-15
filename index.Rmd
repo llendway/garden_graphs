@@ -1,0 +1,86 @@
+---
+title: "Perfect Garden Graph Showcase!"
+output: 
+  html_document: 
+    toc: yes
+    theme: journal
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning=FALSE, error=FALSE)
+```
+
+
+This website was created to celebrate the hard work of the students in COMP/STAT 112 in Fall 2020 Module 1 at Macalester College. Students worked on perfecting these graphs over seven weeks, receiving feedback each week from their professor, Lisa Lendway (that's me). 
+
+They all used data that I collected from my garden over from about mid-June to present (mid-October) 2020. It is a treat to have all these graphs that celebrate my jungle garden!
+
+<center>
+
+![The Jungle Garden at its finest](../garden_graph_showcase_mod1/garden.png){width=400}
+
+
+![](../garden_graph_showcase_mod1/alisonlange_perfgarden_final.gif){width=300}
+
+![](../garden_graph_showcase_mod1/annika_gallaway_garden_plot.png){width=300}
+
+![](../garden_graph_showcase_mod1/AshleyVargas.png){width=600}
+
+![](../garden_graph_showcase_mod1/ayushi_modi_garden_plot.png){width=300}
+
+
+
+![](../garden_graph_showcase_mod1/caedmon_k_d_garden_graph.png){width=500}
+
+
+```{r, results='asis'}
+print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, height=480) )
+```
+
+![](../garden_graph_showcase_mod1/erikhagerpg.gif){width=300}
+
+![](../garden_graph_showcase_mod1/Ethan_Deutsch_Final_Plot.png){width=300}
+
+![](../garden_graph_showcase_mod1/jackson_codd.gif){width=400}
+
+![](../garden_graph_showcase_mod1/johanna_pgg.gif){width=300}
+
+![](../garden_graph_showcase_mod1/Kalvin_Thomas_tomatogg.gif){width=300}
+
+![](../garden_graph_showcase_mod1/perfect_garden_denzler.jpg){width=300}
+
+![](../garden_graph_showcase_mod1/KashviAjitsaria.gif){width=300}
+
+![](../garden_graph_showcase_mod1/Kelsey_Stender.gif){width=300}
+
+![](../garden_graph_showcase_mod1/matt_polemeni_hegarty_garden_plot.png){width=300}
+
+
+
+![](../garden_graph_showcase_mod1/perfectgarden2.gif){width=400}
+
+![](../garden_graph_showcase_mod1/phebechen_garden_harvest.gif){width=400}
+
+![](../garden_graph_showcase_mod1/Rodrigoperfect_garden5.gif){width=300}
+
+![](../garden_graph_showcase_mod1/Tuggle_tom_harvest.gif){width=400}
+
+![](../garden_graph_showcase_mod1/will_moscato_garden_plot.png){width=300}
+
+![](../garden_graph_showcase_mod1/william_wentworth_garden_plot.gif){width=300}
+
+![](../garden_graph_showcase_mod1/WillOrser_PerfectGardenGraph.gif){width=400}
+
+![](../garden_graph_showcase_mod1/Xinyi_Wang_garden_plot.png){width=400}
+
+Thank you!
+
+![](../garden_graph_showcase_mod1/zucch.JPG){width=300}
+
+</center>
+
+
+
+
+
+
