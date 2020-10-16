@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, error=FALSE)
 
 This website was created to celebrate the hard work of the students in COMP/STAT 112 in Fall 2020 Module 1 at Macalester College. Students worked on perfecting these graphs over seven weeks, receiving feedback each week from their professor, Lisa Lendway (that's me). 
 
-They all used data that I collected from my garden over from about mid-June to present (mid-October) 2020. It is a treat to have all these graphs that celebrate my jungle garden!
+They all used data that I collected from my garden from about mid-June to present (mid-October) 2020. It is a treat to have all these graphs that celebrate my jungle garden!
 
 <center>
 
