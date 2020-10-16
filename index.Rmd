@@ -17,16 +17,16 @@ They all used data that I collected from my garden over from about mid-June to p
 
 <center>
 
-![The Jungle Garden at its finest](../garden_graph_showcase_mod1/garden.png){width=400}
+![The Jungle Garden at its finest](../garden_graph_showcase_mod1/garden.png){width=600}
 
 
-![](../garden_graph_showcase_mod1/alisonlange_perfgarden_final.gif){width=300}
+![](../garden_graph_showcase_mod1/alisonlange_perfgarden_final.gif){width=500}
 
-![](../garden_graph_showcase_mod1/annika_gallaway_garden_plot.png){width=300}
+![](../garden_graph_showcase_mod1/annika_gallaway_garden_plot.png){width=500}
 
-![](../garden_graph_showcase_mod1/AshleyVargas.png){width=600}
+![](../garden_graph_showcase_mod1/AshleyVargas.png){width=800}
 
-![](../garden_graph_showcase_mod1/ayushi_modi_garden_plot.png){width=300}
+![](../garden_graph_showcase_mod1/ayushi_modi_garden_plot.png){width=500}
 
 
 
@@ -37,45 +37,49 @@ They all used data that I collected from my garden over from about mid-June to p
 print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, height=480) )
 ```
 
-![](../garden_graph_showcase_mod1/erikhagerpg.gif){width=300}
+![](../garden_graph_showcase_mod1/erikhagerpg.gif){width=500}
 
-![](../garden_graph_showcase_mod1/Ethan_Deutsch_Final_Plot.png){width=300}
+![](../garden_graph_showcase_mod1/Ethan_Deutsch_Final_Plot.png){width=500}
 
-![](../garden_graph_showcase_mod1/jackson_codd.gif){width=400}
+![](../garden_graph_showcase_mod1/jackson_codd.gif){width=700}
 
-![](../garden_graph_showcase_mod1/johanna_pgg.gif){width=300}
+![](../garden_graph_showcase_mod1/johanna_pgg.gif){width=500}
 
-![](../garden_graph_showcase_mod1/Kalvin_Thomas_tomatogg.gif){width=300}
+![](../garden_graph_showcase_mod1/Kalvin_Thomas_tomatogg.gif){width=500}
 
-![](../garden_graph_showcase_mod1/perfect_garden_denzler.jpg){width=300}
+![](../garden_graph_showcase_mod1/perfect_garden_denzler.jpg){width=500}
 
-![](../garden_graph_showcase_mod1/KashviAjitsaria.gif){width=300}
+![](../garden_graph_showcase_mod1/KashviAjitsaria.gif){width=500}
 
-![](../garden_graph_showcase_mod1/Kelsey_Stender.gif){width=300}
+![](../garden_graph_showcase_mod1/Kelsey_Stender.gif){width=500}
 
-![](../garden_graph_showcase_mod1/matt_polemeni_hegarty_garden_plot.png){width=300}
+![](../garden_graph_showcase_mod1/matt_polemeni_hegarty_garden_plot.png){width=500}
 
 
 
-![](../garden_graph_showcase_mod1/perfectgarden2.gif){width=400}
+![](../garden_graph_showcase_mod1/perfectgarden2.gif){width=600}
 
-![](../garden_graph_showcase_mod1/phebechen_garden_harvest.gif){width=400}
+![](../garden_graph_showcase_mod1/phebechen_garden_harvest.gif){width=600}
 
-![](../garden_graph_showcase_mod1/Rodrigoperfect_garden5.gif){width=300}
+![](../garden_graph_showcase_mod1/Rodrigoperfect_garden5.gif){width=500}
 
-![](../garden_graph_showcase_mod1/Tuggle_tom_harvest.gif){width=400}
+![](../garden_graph_showcase_mod1/Tuggle_tom_harvest.gif){width=600}
 
-![](../garden_graph_showcase_mod1/will_moscato_garden_plot.png){width=300}
+![](../garden_graph_showcase_mod1/will_moscato_garden_plot.png){width=500}
 
-![](../garden_graph_showcase_mod1/william_wentworth_garden_plot.gif){width=300}
+![](../garden_graph_showcase_mod1/william_wentworth_garden_plot.gif){width=500}
 
-![](../garden_graph_showcase_mod1/WillOrser_PerfectGardenGraph.gif){width=400}
+![](../garden_graph_showcase_mod1/WillOrser_PerfectGardenGraph.gif){width=600}
 
-![](../garden_graph_showcase_mod1/Xinyi_Wang_garden_plot.png){width=400}
+![](../garden_graph_showcase_mod1/Xinyi_Wang_garden_plot.png){width=600}
+
+[Nicole's shiny app](https://nicolehiggins.shinyapps.io/perfectGardenApp/?_ga=2.194115181.1179010729.1602797470-467726568.1602797470)
+
+![](../garden_graph_showcase_mod1/nicole_shiny_app_screenshot.png){width=600}
 
 Thank you!
 
-![](../garden_graph_showcase_mod1/zucch.JPG){width=300}
+![](../garden_graph_showcase_mod1/zucch.JPG){width=500}
 
 </center>
 
