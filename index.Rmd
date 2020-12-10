@@ -3,6 +3,7 @@ title: "Perfect Garden Graph Showcase!"
 output: 
   html_document: 
     toc: yes
+    toc_float: true
     theme: journal
 ---
 
@@ -11,7 +12,7 @@ knitr::opts_chunk$set(echo = FALSE, warning=FALSE, error=FALSE)
 ```
 
 
-This website was created to celebrate the hard work of the students in COMP/STAT 112 in Fall 2020 Module 1 at Macalester College. Students worked on perfecting these graphs over seven weeks, receiving feedback each week from their professor, Lisa Lendway (that's me). 
+This website was created to celebrate the hard work of the students in COMP/STAT 112 in the 2020-21 academic year at Macalester College. Students worked on perfecting these graphs over seven weeks, receiving feedback each week from their professor, Lisa Lendway (that's me). 
 
 They all used data that I collected from my garden from about mid-June to present (mid-October) 2020. It is a treat to have all these graphs that celebrate my jungle garden!
 
@@ -19,6 +20,11 @@ They all used data that I collected from my garden from about mid-June to presen
 
 ![The Jungle Garden at its finest](../garden_graph_showcase_mod1/garden.png){width=600}
 
+</center>
+
+# Module 1
+
+<center>
 
 ![](../garden_graph_showcase_mod1/alisonlange_perfgarden_final.gif){width=500}
 
@@ -77,11 +83,51 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 
 ![](../garden_graph_showcase_mod1/nicole_shiny_app_screenshot.png){width=600}
 
-Thank you!
+</center>
+
+# Module 2
+
+![](../garden_graph_showcase_mod2/caroline_tevnan_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Debbie Sun.gif)
+
+![](../garden_graph_showcase_mod2/Donia_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Jiashu_Liu_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/juliet_cramer_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/julius_enarsson_enestrom_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Kaiyang_Yao_Plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/kristin_bryan_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Lydia_Yoder_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/mary_mcdonnell_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/nathan_wu_graden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod2/osmar_del_rio_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Rayyan_garden_final.png){width=500}
+
+![](../garden_graph_showcase_mod2/sarah_falkovic_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Theo_Nsereko_Plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/will_brazgel_final_garden.png){width=500}
+
+```{r, results='asis'}
+print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, height=480) )
+```
+
+# Thank you!
 
 ![](../garden_graph_showcase_mod1/zucch.JPG){width=500}
 
-</center>
+
 
 
 
