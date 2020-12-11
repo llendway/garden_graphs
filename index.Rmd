@@ -87,6 +87,8 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 
 # Module 2
 
+<center>
+
 ![](../garden_graph_showcase_mod2/caroline_tevnan_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod2/Debbie Sun.gif)
@@ -101,7 +103,7 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 
 ![](../garden_graph_showcase_mod2/Kaiyang_Yao_Plot.png){width=500}
 
-![](../garden_graph_showcase_mod2/kristin_bryan_garden_plot.png){width=500}
+![](../garden_graph_showcase_mod2/kristin_bryan_garden_plot.png){width=600}
 
 ![](../garden_graph_showcase_mod2/Lydia_Yoder_garden_plot.png){width=500}
 
@@ -110,6 +112,10 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 ![](../garden_graph_showcase_mod2/nathan_wu_graden_graph.png){width=500}
 
 ![](../garden_graph_showcase_mod2/osmar_del_rio_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/perfectgarden_finalgraph.JPG){width=500}
+
+
 
 ![](../garden_graph_showcase_mod2/Rayyan_garden_final.png){width=500}
 
@@ -122,6 +128,8 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 ```{r, results='asis'}
 print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, height=480) )
 ```
+
+</center>
 
 # Thank you!
 
