@@ -111,6 +111,12 @@ print( htmltools::tags$iframe(src="emma_iverson_garden_plot.html", width=600, he
 
 ![](../garden_graph_showcase_mod2/nathan_wu_graden_graph.png){width=500}
 
+![](../garden_graph_showcase_mod2/nick_bice_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod2/Nick_camp_Garden_Graph.png){width=500}
+
+![](../garden_graph_showcase_mod2/olivia_litke_perfect_garden.png){width=500}
+
 ![](../garden_graph_showcase_mod2/osmar_del_rio_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod2/perfectgarden_finalgraph.JPG){width=500}
