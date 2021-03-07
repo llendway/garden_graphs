@@ -137,9 +137,101 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 </center>
 
+
+# Module 3
+
+<center>
+
+[Carolina's shiny app](https://carolinalopez13.shinyapps.io/PerfectGarden/)
+
+![](../garden_graph_showcase_mod3/alexander_hopkins_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/anthony_palma_pgg_tomatoes_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/bella_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Ben_Wagner_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/CAguilar_Week5.gif){width=500}
+
+![](../garden_graph_showcase_mod3/ducngo_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Elizabeth_Cain_Perfect_Garden_Graph.png){width=500}
+
+![](../garden_graph_showcase_mod3/emily_lugthart_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/final_gardenplot_hunsanger.png){width=500}
+
+![](../garden_graph_showcase_mod3/Gaocha_Lee_3_veg_harvest.gif){width=500}
+
+![](../garden_graph_showcase_mod3/grace_mckenney_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/hayley_hadges_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/janett_casillas_garden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod3/Jasmine_Loving_Final_Garden_Graph.gif){width=500}
+
+![](../garden_graph_showcase_mod3/JenniferHuang_veggies_growth.gif){width=500}
+
+![](../garden_graph_showcase_mod3/josh_fortin_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/kamini_ramakrishna_garden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod3/katie_herrick_pgg_final.png){width=500}
+
+![](../garden_graph_showcase_mod3/kennedy_kechely_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Lee-Brian_gardenGraph.png){width=500}
+
+![](../garden_graph_showcase_mod3/Max_Dodge_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Maxx_Malone_garden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod3/mbraun_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/MeachemGardenPlot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Michael_Poker_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/nathan_gottlieb_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/nolan_meyer_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Omar_Anwar_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/PabloMonterrosoGraph.png){width=500}
+
+![](../garden_graph_showcase_mod3/Perfect_garden.gif){width=500}
+
+![](../garden_graph_showcase_mod3/perfect_garden_graph_joselyn.gif){width=500}
+
+![](../garden_graph_showcase_mod3/Pippa_Gallagher_Perfect_Garden.png){width=500}
+
+![](../garden_graph_showcase_mod3/Rayan_Hamid_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/rohit_shah_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/sk_gardengraph.png){width=500}
+
+![](../garden_graph_showcase_mod3/ty_bruckner_garden_plot.png){width=500}
+
+```{r, results='asis'}
+print(htmltools::tags$iframe(src="../garden_graph_showcase_mod3/Danielgardengraph.html", width=600, height=480) )
+```
+
+```{r, results='asis'}
+print(htmltools::tags$iframe(src="../garden_graph_showcase_mod3/FinalGraph.html", width=700, height=500) )
+```
+
+
+
+</center>
+
 # Thank you!
 
 ![](../garden_graph_showcase_mod1/zucch.JPG){width=500}
+
 
 
 
