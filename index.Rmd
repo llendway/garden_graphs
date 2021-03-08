@@ -144,6 +144,10 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 [Carolina's shiny app](https://carolinalopez13.shinyapps.io/PerfectGarden/)
 
+![](../garden_graph_showcase_mod3/Abdifatah_Abdi_garden-plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Alex_Ismail_Perfect_Garden.gif){width=500}
+
 ![](../garden_graph_showcase_mod3/alexander_hopkins_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod3/anthony_palma_pgg_tomatoes_plot.png){width=500}
@@ -166,6 +170,8 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 ![](../garden_graph_showcase_mod3/final_gardenplot_hunsanger.png){width=500}
 
+![](../garden_graph_showcase_mod3/Fricke_FinalGardenGraph.JPG){width=500}
+
 ![](../garden_graph_showcase_mod3/franco_salinas_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod3/Gabriel_Reynolds_garden_plot.png){width=500}
@@ -184,11 +190,15 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 ![](../garden_graph_showcase_mod3/josh_fortin_garden_plot.png){width=500}
 
+![](../garden_graph_showcase_mod3/josh_rollin_plot.png){width=500}
+
 ![](../garden_graph_showcase_mod3/kamini_ramakrishna_garden_graph.png){width=500}
 
 ![](../garden_graph_showcase_mod3/katie_herrick_pgg_final.png){width=500}
 
 ![](../garden_graph_showcase_mod3/kennedy_kechely_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/Lanying_Wang_perfect_garden.png){width=500}
 
 ![](../garden_graph_showcase_mod3/Lee-Brian_gardenGraph.png){width=500}
 
@@ -197,6 +207,8 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 ![](../garden_graph_showcase_mod3/Max_Dodge_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod3/Maxx_Malone_garden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod3/maya_hajny_garden_graph.png){width=500}
 
 ![](../garden_graph_showcase_mod3/mbraun_garden_plot.png){width=500}
 
