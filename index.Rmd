@@ -239,6 +239,8 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 ![](../garden_graph_showcase_mod3/Seeger_Final_Graph.gif){width=500}
 
+![](../garden_graph_showcase_mod3/siona_kelly_garden_graph.png){width=500}
+
 ![](../garden_graph_showcase_mod3/sk_gardengraph.png){width=500}
 
 ![](../garden_graph_showcase_mod3/Tshering_garden_plot.png){width=500}
