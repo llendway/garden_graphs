@@ -234,11 +234,11 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 ![](../garden_graph_showcase_mod3/ty_bruckner_garden_plot.png){width=500}
 
 ```{r, results='asis'}
-print(htmltools::tags$iframe(src="../garden_graph_showcase_mod3/Danielgardengraph.html", width=600, height=480) )
+print(htmltools::tags$iframe(src="Danielgardengraph.html", width=600, height=480) )
 ```
 
 ```{r, results='asis'}
-print(htmltools::tags$iframe(src="../garden_graph_showcase_mod3/FinalGraph.html", width=700, height=500) )
+print(htmltools::tags$iframe(src="FinalGraph.html", width=700, height=500) )
 ```
 
 
