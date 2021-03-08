@@ -188,6 +188,8 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 
 ![](../garden_graph_showcase_mod3/JenniferHuang_veggies_growth.gif){width=500}
 
+[Aldric's shiny app](https://aldricmo.shinyapps.io/Perfect_Garden_Graph/)
+
 ![](../garden_graph_showcase_mod3/josh_fortin_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod3/josh_rollin_plot.png){width=500}
@@ -246,6 +248,8 @@ print( htmltools::tags$iframe(src="elie_rizk_garden_plot.html", width=600, heigh
 ![](../garden_graph_showcase_mod3/Tshering_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod3/ty_bruckner_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod3/vichearith_meas_garden_plot.png){width=500}
 
 ```{r, results='asis'}
 print(htmltools::tags$iframe(src="Danielgardengraph.html", width=600, height=480) )
