@@ -263,6 +263,66 @@ print(htmltools::tags$iframe(src="FinalGraph.html", width=700, height=500) )
 
 </center>
 
+
+# Module 5
+
+<center>
+
+![](../garden_graph_showcase_mod5/perfect_garden_graph_final.gif){width=500}
+
+
+![](../garden_graph_showcase_mod5/andy_xu_perfect_garden.pdf){width=500}
+
+![](../garden_graph_showcase_mod5/Bea_Green_pie_produce_graph_final.gif){width=500}
+
+```{r, results='asis'}
+print(htmltools::tags$iframe(src="Katie_Funk_final_garden_graph.html", width=700, height=500) )
+```
+
+![](../garden_graph_showcase_mod5/BradyThompsonFinalGardenGraph.png){width=500}
+
+![](../garden_graph_showcase_mod5/caprese_salad_graph_erinF.png){width=500}
+
+![](../garden_graph_showcase_mod5/erinFranke_gardenplot1.gif){width=500}
+
+
+![](../garden_graph_showcase_mod5/clarisa_gomez_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/Eli_Ivanov_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/Eric_Li_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/Jason_Shi_garden_plot.png){width=700}
+
+![](../garden_graph_showcase_mod5/kate_liberko_garden_graph.png){width=500}
+
+![](../garden_graph_showcase_mod5/laurel_hickey_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/Nicholas_Di_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/rita_liu_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/scott_zong_garden_plot.png){width=700}
+
+![](../garden_graph_showcase_mod5/Shaherazade_Khan_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/Talia Chait Perfect Garden Graph.gif){width=500}
+
+![](../garden_graph_showcase_mod5/Xia_garden_plot.png){width=600}
+
+![](../garden_graph_showcase_mod5/yike_zhou_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/yunyang_zhong_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/ZahraJumaniperfectgarden.png){width=500}
+
+![](../garden_graph_showcase_mod5/zefan_qian_garden_plot.png){width=500}
+
+
+
+</center>
+
+
 # Thank you!
 
 ![](../garden_graph_showcase_mod1/zucch.JPG){width=500}
