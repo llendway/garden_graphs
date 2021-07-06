@@ -274,7 +274,7 @@ print(htmltools::tags$iframe(src="FinalGraph.html", width=700, height=500) )
 ![](../garden_graph_showcase_mod5/andy_xu_perfect_garden.pdf){width=500}
 
 
-
+![](../garden_graph_showcase_mod5/anna_sverclova_perfect_garden.png){width=500}
 
 ![](../garden_graph_showcase_mod5/Bea_Green_pie_produce_graph_final.gif){width=500}
 
@@ -294,6 +294,8 @@ print(htmltools::tags$iframe(src="Katie_Funk_final_garden_graph.html", width=500
 ![](../garden_graph_showcase_mod5/Eli_Ivanov_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod5/Eric_Li_garden_plot.png){width=500}
+
+![](../garden_graph_showcase_mod5/ingrid_oconnor_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod5/Jason_Shi_garden_plot.png){width=700}
 
