@@ -301,6 +301,8 @@ print(htmltools::tags$iframe(src="Katie_Funk_final_garden_graph.html", width=500
 
 ![](../garden_graph_showcase_mod5/kate_liberko_garden_graph.png){width=500}
 
+![](../garden_graph_showcase_mod5/Laith Alayassa garden_anim.gif){width=500}
+
 ![](../garden_graph_showcase_mod5/laurel_hickey_garden_plot.png){width=500}
 
 ![](../garden_graph_showcase_mod5/Nicholas_Di_garden_plot.png){width=500}
